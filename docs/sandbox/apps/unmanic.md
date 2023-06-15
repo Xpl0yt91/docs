@@ -22,4 +22,4 @@ sb install sandbox-unmanic
 
 ### 3. Setup
 
-- [:octicons-link-16: Documentation](https://github.com/Unmanic/unmanic/blob/master/docs/configuration/README.md){: .header-icons target=_blank rel="noopener noreferrer" }
+- [:octicons-link-16: Documentation](https://docs.unmanic.app/){: .header-icons target=_blank rel="noopener noreferrer" }
